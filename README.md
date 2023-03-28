@@ -14,5 +14,4 @@ The COVID-19 pandemic had a variety of effects on global health, the global econ
 
 
 Dataset link
-https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/%7B#}1590859488150-
-148be708c3f3
+https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/%7B#}1590859488150-148be708c3f3
